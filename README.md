@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddharth Mehra
 
-🎯 **Aspiring Machine Learning Engineer | Data Enthusiast | Currently at Block Inc. (Afterpay)**  
+🎯 **Striving towards continuous ML and AI learning | Data Enthusiast | Currently at Block Inc. (Afterpay)**  
 📍 Based in Melbourne, Australia | 🌱 Learning Python, SQL, ML, and Data Engineering
 
 ---
