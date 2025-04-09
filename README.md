@@ -8,28 +8,29 @@
 I'm a passionate learner currently working in **Operations Support at Afterpay (Block Inc.)**. Over the past year, I've been actively transitioning into the data science and AI space by:
 
 - Completing courses in **Python**, **Mathematics for Machine Learning**, and **SQL**
-- Enrolling in a **Graduate Diploma of Foundational Data Science** at the University of Melbourne
+- Undertaking **Graduate Diploma of Foundational Data Science** at the University of Melbourne
 - Exploring and building small, impactful projects that simulate real-world applications
 - Applying what I learn to understand data-driven workflows, customer behavior, and intelligent systems
 
 ---
 
-## 📂 Featured Repository
+## 📌 Featured Project
 
-🚀 [`SM17`](https://github.com/sidmehra17/SM17): A collection of beginner projects reflecting my learning journey  
-- 🔍 **Complaint Classifier**: Categorizes customer complaints using keyword-based classification  
-- 📊 **Collections Dashboard**: Visualizes mock payment data to explore trends using `pandas` and `matplotlib`
-
-> These projects are for learning and demonstration purposes only and are not built on internal or proprietary data.
+### [`data-science-portfolio`](https://github.com/sidmehra17/data-science-portfolio)
+A showcase of my Python, SQL, and Tableau work:
+- **Titanic Classification:** Binary classification using logistic regression
+- **Customer Orders (SQL):** Revenue trend queries using joins and CTEs
+- **Sales Regression:** Ad spend vs revenue prediction
+- **Financial Dashboard (Tableau):** Executive dashboard for simulated metrics
 
 ---
 
-## 🛠️ Tech & Tools I'm Working With
-- **Languages**: Python, SQL  
-- **Libraries**: Pandas, NumPy, Matplotlib, scikit-learn  
-- **Data Viz**: Tableau, Excel (Advanced)  
-- **Learning Focus**: Supervised ML, Data Pipelines, Feature Engineering, Business Problem Solving
+## 🧰 Tech & Tools
 
+**Languages:** Python, SQL  
+**Libraries:** pandas, NumPy, matplotlib, seaborn, scikit-learn  
+**Data Viz:** Tableau, Excel (Advanced)  
+**Focus:** ML, Feature Engineering, Business Intelligence, Data Ops
 ---
 
 ## ✨ My Goals
